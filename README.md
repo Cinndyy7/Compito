@@ -1,2 +1,2 @@
-# Compito
-Compito
+# Donne nell'informatica
+Il lavoro è stato svolto durante le vacanze pasquali come compito di informatica. Consisteva nella creazione di un sito web locale, pubblico, che permette agli utenti base (registrati e autenticati) di visualizzare le informazioni sulle donne trattate nella scuola. È possibile accedere anche come amministratore, ma non è prevista la registrazione per questo ruolo. Il sito viene eseguito localmente tramite Apache UWAMP.
